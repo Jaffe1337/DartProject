@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20211105_033157.jpg</filename>
+	<path>C:\Users\janfr\ikt213\Project\TensorFlow\workspace\training_demo\images\test\20211105_033157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>176</ymin>
+			<xmax>214</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

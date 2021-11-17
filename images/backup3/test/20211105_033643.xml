@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20211105_033643.jpg</filename>
+	<path>C:\Users\janfr\OneDrive - Universitetet i Agder\Desktop\TensorFlow\workspace\training_demo\images\test\20211105_033643.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1156</width>
+		<height>867</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>115</ymin>
+			<xmax>460</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>780</xmin>
+			<ymin>547</ymin>
+			<xmax>961</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+</annotation>
